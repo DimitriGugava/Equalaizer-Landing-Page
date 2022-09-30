@@ -1,0 +1,525 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  /* border: 1px solid red; */
+}
+
+/* MOBILE PART */
+/* MOBILE PART */
+/* MOBILE PART */
+
+.maincontainer {
+  height: 1945px;
+  width: 375px;
+  margin: 0 auto; /*Centering the DIV*/
+  border-radius: 0px;
+}
+
+.equalizertext {
+  display: inline-block;
+  height: 32px;
+  width: 146px;
+  margin-left: 24px;
+  margin-top: 40px;
+  border-radius: 0px;
+  color: rgba(25, 24, 38, 1);
+  font-family: "IBM Plex Sans";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.4545454680919647px;
+  text-align: left;
+}
+.containerforbackgroundcolors {
+  height: 480px;
+  width: 281.4045715332031px;
+  margin-left: 159px;
+  margin-top: -104px;
+  border-radius: 0px;
+}
+.containerforbackgrounduppercolor {
+  height: 281.4045715332031px;
+  width: 281.4045715332031px;
+  margin-right: 64px;
+  margin-top: -104px;
+  border-radius: 0px;
+  background: rgba(64, 255, 246, 1);
+  mix-blend-mode: normal;
+  opacity: 0.28;
+  filter: blur(67.957px);
+}
+.containerforbackgroundlowercolor {
+  height: 281px;
+  width: 281px;
+  margin-left: 0px;
+  margin-top: 94px;
+  border-radius: 0px;
+  background: rgba(255, 146, 1, 1);
+  mix-blend-mode: normal;
+  opacity: 0.15;
+  filter: blur(67.957px);
+}
+
+.wemakeyourmusictext {
+  display: inline-block;
+  display: flex;
+  height: 144px;
+  width: 327px;
+  margin-left: 24px;
+  margin-top: -300px;
+  font-family: "IBM Plex Sans";
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.4545454680919647px;
+  text-align: left;
+}
+.astudioaudiolongtext {
+  display: inline-block;
+  height: 156px;
+  width: 327px;
+  margin-left: 24px;
+  margin-top: 20px;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(25, 24, 38, 1);
+}
+.containerofbackgroundbehindphone {
+  display: flex;
+  height: 600px;
+  width: 375px;
+  margin-left: 0px;
+  margin-top: 166px;
+  background-color: black;
+  border-radius: 12px;
+}
+
+.backgroundbehindphone {
+  height: 420px;
+  width: 280px;
+  margin-left: 48px;
+  margin-top: 0px;
+}
+
+.mobilephone {
+  display: flex;
+
+  height: 430px;
+  width: 208px;
+  margin-left: 94px;
+  margin-top: -700px;
+  border-radius: 0px;
+}
+
+.containerofIOSandANDROIDdownload {
+  position: relative;
+  height: 546px;
+  width: 375px;
+  margin-left: 0px;
+  margin-top: 50px;
+  border-radius: 12px;
+  background: rgba(250, 116, 83, 1);
+}
+.premiumEQtext {
+  display: inline-block;
+  height: 40px;
+  width: 302px;
+  margin-left: 36px;
+  margin-top: 48px;
+  font-family: "IBM Plex Sans";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(252, 250, 249, 1);
+}
+.getexpertlongtext {
+  display: inline-block;
+  height: 140px;
+  width: 302px;
+  margin-left: 36px;
+  margin-top: 12px;
+  font-family: "IBM Plex Sans";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(252, 250, 249, 1);
+}
+.fourdollar {
+  display: inline-block;
+
+  height: 52px;
+  width: 79px;
+  margin-left: 42px;
+  margin-top: 36px;
+  font-family: "IBM Plex Sans";
+  font-size: 65px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(252, 250, 249, 1);
+}
+.monthtext {
+  display: inline-block;
+  display: flex;
+  height: 32px;
+  width: 72px;
+  margin-left: 137px;
+  margin-top: -45px;
+  font-family: "IBM Plex Sans";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: left;
+  color: rgba(252, 250, 249, 1);
+}
+
+.IOSdownloadbox {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 61px;
+  width: 296px;
+  margin-left: 42px;
+  margin-top: 32px;
+  border-radius: 12px;
+  background: rgba(25, 24, 38, 1);
+}
+.IOSdownload {
+  display: flex;
+  height: 32px;
+  width: 142px;
+  border-radius: 0px;
+}
+.androiddownloadbox {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 61px;
+  width: 296px;
+  margin-left: 42px;
+  margin-top: 16px;
+  border-radius: 12px;
+  background: rgba(252, 250, 249, 1);
+}
+.androiddownloadtextandlogo {
+  display: flex;
+  height: 32px;
+  width: 178.5px;
+  border-radius: 0px;
+}
+
+.equalizerbelow {
+  display: inline-block;
+  display: flex;
+  height: 32px;
+  width: 146.0926971435547px;
+  margin-left: 25px;
+  margin-top: 63px;
+  border-radius: 0px;
+  font-family: "IBM Plex Sans";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #191826;
+}
+.allrightslongtextbelow {
+  display: inline-block;
+  display: flex;
+
+  height: 105px;
+  width: 327px;
+  margin-left: 24px;
+  margin-top: 32px;
+  font-family: "IBM Plex Sans";
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(25, 24, 38, 1);
+}
+
+.socialnetworksbox {
+  display: flex;
+  margin-top: 64px;
+  margin-left: 24px;
+  gap: 20px;
+}
+.facebookmobile {
+  display: flex;
+}
+.instagrammobile {
+  display: flex;
+}
+.twittermobile {
+  display: flex;
+}
+
+/* hiding for mobile */
+@media only screen and (max-width: 768px) {
+  .tabletanddekstoprangeofcolors {
+    display: none;
+  }
+  .tabletmobile {
+    display: none;
+  }
+}
+/* Tablet size  */ /* Tablet size  */
+@media only screen and (min-width: 768px) {
+  .tabletanddekstopbackground {
+    display: none;
+  }
+
+  .mobilephone {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .maincontainer {
+    height: 1781px;
+    width: 768px;
+    border-radius: 0px;
+  }
+  .tabletanddekstopbackground {
+    height: 384px;
+    width: 384px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(67.957px);
+    background: rgba(255, 123, 64, 1);
+  }
+
+  .tabletanddekstoprangeofcolors {
+    position: absolute;
+    height: 400px;
+    width: 266px;
+    margin-left: 500px;
+    margin-top: 0px;
+  }
+  .equalizertext {
+    height: 32px;
+    width: 146px;
+    margin-left: 39px;
+    margin-top: 61px;
+    border-radius: 0px;
+  }
+  .containerforbackgroundcolors {
+    margin-left: 345px;
+  }
+  .containerforbackgrounduppercolor {
+    margin-left: 0px;
+  }
+  .containerforbackgroundlowercolor {
+    margin-left: 0px;
+  }
+  .containerforbackgroundlowercolor2 {
+    position: absolute;
+    height: 281px;
+    width: 281px;
+    margin-left: -450px;
+    margin-top: -600px;
+    border-radius: 0px;
+    background: rgba(255, 146, 1, 1);
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(67.957px);
+  }
+
+  .wemakeyourmusictext {
+    margin-left: 39px;
+    margin-top: -270px;
+    height: 192px;
+    width: 520px;
+    font-family: "IBM Plex Sans";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -0.7272727489471436px;
+    text-align: left;
+  }
+
+  .astudioaudiolongtext {
+    margin-left: 39px;
+    margin-top: 61px;
+    height: 112px;
+    width: 514px;
+  }
+  .containerofbackgroundbehindphone {
+    height: 600px;
+    width: 696px;
+    margin: 0 auto;
+    margin-top: 250px;
+    border-radius: 12px;
+  }
+  .backgroundbehindphone {
+    height: 420px;
+    width: 280px;
+    margin: 0 auto;
+    margin-top: -50px;
+  }
+
+  .tabletmobile {
+    position: absolute;
+    margin-top: -740px;
+    margin-left: 80px;
+  }
+  .containerofIOSandANDROIDdownload {
+    position: absolute;
+    height: 546px;
+    width: 399px;
+    margin-left: 272px;
+    margin-top: -480px;
+    border-radius: 12px;
+  }
+  .equalizerbelow {
+    display: inline-block;
+    margin-top: 150px;
+  }
+  /* .allrightslongtextbelow:last-child {
+    font-weight: bold;
+  } */
+  .socialnetworksbox {
+    display: flex;
+    flex-direction: row;
+    margin-top: -50px;
+    margin-left: 629px;
+  }
+}
+
+/* hiding for mobile and tablet - desktop sizes */
+@media only screen and (max-width: 1440px) {
+  .desktopanddekstoprangeofcolors {
+    display: none;
+  }
+  .desktopbackgroundbehindphone {
+    display: none;
+  }
+  .desktopmobile {
+    display: none;
+  }
+  .containerforbackgroundlowercolor3 {
+    display: none;
+  }
+}
+
+/* desktop size  */ /* desktop size  */
+@media only screen and (min-width: 1440px) {
+  .maincontainer {
+    height: 1832px;
+    width: 1515px;
+
+    border-radius: 0px;
+  }
+  .tabletanddekstoprangeofcolors {
+    display: none;
+  }
+
+  .desktopanddekstoprangeofcolors {
+    position: absolute;
+    margin-left: 1202px;
+  }
+  .wemakeyourmusictext {
+    position: absolute;
+    height: 176px;
+    width: 1015px;
+    margin-top: -450px;
+    font-family: "IBM Plex Sans";
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 88px;
+    letter-spacing: -1px;
+    text-align: left;
+  }
+  .astudioaudiolongtext {
+    position: absolute;
+
+    height: 102px;
+    width: 825px;
+    margin-top: -240px;
+    font-family: "IBM Plex Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .containerforbackgroundcolors {
+    margin-left: 1000px;
+    margin-top: 100px;
+  }
+  .containerforbackgroundlowercolor2 {
+    margin-left: -1000px;
+    margin-top: -800px;
+  }
+  .containerofbackgroundbehindphone {
+    height: 600px;
+    width: 1110px;
+    margin: 0 auto;
+    margin-top: 170px;
+    border-radius: 12px;
+  }
+  .backgroundbehindphone {
+    display: none;
+  }
+  .tabletmobile {
+    display: none;
+  }
+  .desktopmobile {
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 340px;
+  }
+  .desktopbackgroundbehindphone {
+    margin: 0 auto;
+    height: 468px;
+    width: 312px;
+  }
+  .containerofIOSandANDROIDdownload {
+    height: 625px;
+    width: 446px;
+    margin-left: 825px;
+    margin-top: -430px;
+    border-radius: 12px;
+  }
+  .equalizerbelow {
+    display: inline-block;
+    margin-top: 300px;
+    margin-left: 195px;
+  }
+  .allrightslongtextbelow {
+    margin-top: -40px;
+    margin-left: 570px;
+  }
+  .socialnetworksbox {
+    margin-top: -70px;
+    margin-left: 1210px;
+  }
+  .containerforbackgroundlowercolor3 {
+    position: absolute;
+    height: 281px;
+    width: 281px;
+    margin-left: 125px;
+    margin-top: 600px;
+    border-radius: 0px;
+    background: rgba(255, 146, 1, 1);
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(67.957px);
+  }
+}
